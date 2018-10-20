@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DEEPL Mobile</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="home_todaylogs">Logs uploaded today:</string>
+    <string name="logs_uploaded_today">Logs uploaded today:</string>
+</resources>
